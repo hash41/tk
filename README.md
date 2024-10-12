@@ -1,4 +1,4 @@
-##COMMANDS DOCKER USED##\
+## COMMANDS DOCKER USED \
 *docker-compose start* --> start server\
 *from ALPINE* --> alpine OS\
 *WORKDIR* --> working directory\
